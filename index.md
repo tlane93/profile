@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Tanya Lane's Profile Page
 
 You can use the [editor on GitHub](https://github.com/tlane93/profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
